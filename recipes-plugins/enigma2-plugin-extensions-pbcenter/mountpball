@@ -1,0 +1,88 @@
+#!/bin/sh
+if [ ! -f /etc/enigma2/settings.mounts ]; then
+  if [ "$(cat /proc/partitions | grep sda1)" != "" ]; then
+    VENDOR=$(cat /sys/block/sda/device/vendor | sed "s/ *$//")
+    MODEL=$(cat /sys/block/sda/device/model | sed "s/ *$//")
+	echo "/media/hdd:$MODEL:$VENDOR:1" > /etc/enigma2/settings.mounts
+  else
+    touch /etc/enigma2/settings.mounts
+  fi
+fi
+
+if [ ! -d /tmp/camdinstall ]; then
+  mkdir /tmp/camdinstall
+fi
+
+if [ ! -d /usr/bin/cam ]; then
+  mkdir /usr/bin/cam
+fi
+
+if [ ! -d /usr/script/cam ]; then
+  mkdir /usr/script/cam
+fi
+
+if [ ! -e /etc/ld.so.conf ]; then
+	touch /etc/ld.so.conf
+fi
+
+mounts=`cat /proc/mounts | grep media/ | cut -d " " -f2 | cut -d "/" -f3`
+for i in $(ls /media); do
+    if [[ ! "$i" = *$mounts* ]]; then
+        rm -fr /media/$i
+    fi
+done
+
+if [ ! -d /media/cdrom ] && [ -e /dev/sr0 ]; then
+  mkdir /media/cdrom
+fi
+
+if grep "active" /etc/enigma2/automounts.xml  > /dev/null || grep "fstype" /etc/auto.network  > /dev/null
+then
+    if [ ! -d /media/net ]; then
+        mkdir /media/net
+        mkdir /media/autofs
+    fi
+fi
+
+if [ ! -e /etc/enigma2/.labelmount ]; then
+	IFS=$'\n'
+	for i in $(cat /etc/enigma2/settings.mounts); do
+		/usr/bin/mountpb "$i"
+	done
+fi
+
+if [ -e /etc/enigma2/.labelmount ]; then
+	IFS=$'\n'
+	for i in $(blkid); do
+        if [[ ! "$i" = *ubifs* ]]; then
+            label=$(echo $i | cut -d" " -f2 | tr -d '"' | cut -d= -f2)
+            devi=$(echo $i | cut -d: -f1)
+            echo $label
+            echo $devi
+            if [ ! -e /media/$label ]; then
+                mkdir /media/$label
+            fi
+		fi
+		mount $devi /media/$label
+	done
+fi
+	
+
+if [ -f /etc/enigma2/.tanja ]; then
+	PFAD=$(cat /etc/enigma2/.tanja)
+	mount --bind ${PFAD}/tanja/usr/lib/enigma2/python /usr/lib/enigma2/python
+	mount --bind ${PFAD}/tanja/usr/lib/opkg /usr/lib/opkg
+	mount --bind ${PFAD}/tanja/usr/share/enigma2 /usr/share/enigma2
+    mount --bind ${PFAD}/tanja/usr/local /usr/local
+fi
+
+if [ ! -f /etc/enigma2/.tanja ] && [ -f /etc/enigma2/.tanjaremove ]; then
+	PFAD=$(cat /etc/enigma2/.tanjaremove)
+	rm -rf ${PFAD}/tanja
+	rm -rf /etc/enigma2/.tanjaremove
+fi
+
+if [ -f /etc/enigma2/.swap ]; then
+	SWAPPFAD=$(cat /etc/enigma2/.swap)
+	swapon ${SWAPPFAD}
+fi

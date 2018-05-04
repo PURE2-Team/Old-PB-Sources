@@ -1,0 +1,1245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pbc\n"
+"POT-Creation-Date: 2014-12-18 20:27+0300\n"
+"PO-Revision-Date: 2014-12-18 20:28+0300\n"
+"Last-Translator: Sowa <v.yants@rambler.ru>\n"
+"Language-Team: for PB-PowerBoard\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: D:/pbc\n"
+"X-Poedit-SearchPath-0: unc\n"
+
+#: unc/PBCon.py:33
+msgid "Execution progress:"
+msgstr "Прогресс выполнения:"
+
+#: unc/PBCon.py:48
+msgid "Execution finished!!"
+msgstr "Выполнено!!"
+
+#: unc/PBConfigs.py:29
+msgid "Hide Decode-Info"
+msgstr "Скрыть информацию декодирования"
+
+#: unc/PBConfigs.py:30
+msgid "Hide only Decode-Emu"
+msgstr "Скрывать только инф. ЕМУ"
+
+#: unc/PBConfigs.py:31
+msgid "Hide only Decode-Net"
+msgstr "Скрывать только декодирование по сети"
+
+#: unc/PBConfigs.py:32
+msgid "Hide Cam-Info"
+msgstr "Скрывать инфо САМ"
+
+#: unc/PBConfigs.py:33
+msgid "Use label mount"
+msgstr "Использовать монтировани по метке устройства"
+
+#: unc/PBConfigs.py:34
+msgid "Ocram feeds for picons active"
+msgstr "Фид Ocram для пиконов активен"
+
+#: unc/PBConfigs.py:40 unc/PBDeviceManager.py:229
+msgid "Ok"
+msgstr "ОК"
+
+#: unc/PBConfigs.py:41 unc/PBDeviceManager.py:68 unc/PBDeviceManager.py:134
+#: unc/PBDeviceManager.py:230 unc/PBDeviceManager.py:320 unc/PBExpander.py:322
+#: unc/PBExpander.py:352 unc/PBExpander.py:469 unc/spaceview.py:64
+#: unc/swap.py:62
+msgid "Exit"
+msgstr "Выход"
+
+#: unc/PBConfigs.py:93
+msgid ""
+"GUI needs a restart to apply the new settings\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"Необходим перезапуск GUI, чтобы применить новые установки\n"
+"Вы хотите перезапустить GUI сейчас?"
+
+#: unc/PBConfigs.py:94
+msgid "Restart GUI now?"
+msgstr "Перезапустить GUI сейчас?"
+
+#: unc/PBDeviceManager.py:260
+msgid "Insert mount point:"
+msgstr "Вставьте точку монтирования:"
+
+#: unc/PBDeviceManager.py:279
+msgid ""
+"Cannot umount current drive. Timeshift, recording or some external tools "
+"(like samba and nfsd) may cause this problem. Please stop this actions/"
+"applications and try again"
+msgstr ""
+"Привод не может быть отмонтирован. Проблема может быть из-за процесса "
+"записи, TimeShift, наличия свопа или работы внешней программы (таких как "
+"самба или NFSD). Пожалуйста, остановите их и попробуйте еще раз!"
+
+#: unc/PBDeviceManager.py:286
+msgid ""
+"Cannot mount new drive. Please check filesystem or format it and try again"
+msgstr ""
+"Новый диск не может быть смонтирован. Пожалуйста, проверьте или "
+"отформатируйте файловую систему и попробуйте еще раз."
+
+#: unc/PBDeviceManager.py:327 unc/PBDeviceManager.py:348
+msgid "Check"
+msgstr "Проверить"
+
+#: unc/PBDeviceManager.py:328 unc/PBDeviceManager.py:349
+msgid "Format"
+msgstr "Формат"
+
+#: unc/PBDeviceManager.py:335 unc/PBDeviceManager.py:356
+msgid "Unmount"
+msgstr "Отмотировать"
+
+#: unc/PBDeviceManager.py:338 unc/PBDeviceManager.py:359
+msgid "Mount"
+msgstr "Монтировать"
+
+#: unc/PBDeviceManager.py:365
+msgid "Check disk terminated with success!"
+msgstr "Проверка файловой системы успешно выполнена!"
+
+#: unc/PBDeviceManager.py:367
+msgid ""
+"Cannot umount current drive. A record in progress, timeshit or some external "
+"tools (like samba and nfsd) may cause this problem. Please stop this actions/"
+"applications and try again"
+msgstr ""
+"Привод не может быть отмонтирован. Проблема может быть из-за процесса "
+"записи, наличия свопа или работы внешней программы (таких как самба или "
+"NFSD). Пожалуйста, остановите их и попробуйте еще раз!"
+
+#: unc/PBDeviceManager.py:369
+msgid "Error checking disk. The disk may be damaged"
+msgstr "Ошибка проверки диска. Диск может быть поврежден."
+
+#: unc/PBDeviceManager.py:375 unc/PBDeviceManager.py:386
+#: unc/PBDeviceManager.py:397 unc/PBDeviceManager.py:408
+msgid "Format terminated with success!"
+msgstr "Форматирование успешно завершено!"
+
+#: unc/PBDeviceManager.py:377 unc/PBDeviceManager.py:388
+#: unc/PBDeviceManager.py:399 unc/PBDeviceManager.py:410
+msgid ""
+"Cannot format current drive. A record in progress, timeshit or some external "
+"tools (like samba and nfsd) may cause this problem. Please stop this actions/"
+"applications and try again"
+msgstr ""
+"Привод не может быть отформатирован. Проблема может быть из-за процесса "
+"записи, наличия свопа или работы внешней программы (таких как самба или "
+"NFSD). Пожалуйста, остановите их и попробуйте еще раз!"
+
+#: unc/PBDeviceManager.py:379 unc/PBDeviceManager.py:390
+#: unc/PBDeviceManager.py:401 unc/PBDeviceManager.py:412
+msgid "Error formatting disk. The disk may be damaged"
+msgstr "Ошибка форматирования диска. Диск может быть поврежден."
+
+#: unc/PBDeviceManager.py:437
+msgid "Select filesystem for formatting"
+msgstr "Выберете файловую систему для форматирования раздела"
+
+#: unc/PBDeviceManager.py:503
+msgid "FAT16 on a partition detected, please format it or initialise device!"
+msgstr ""
+"Найден раздел FAT16, необходимо отформатировать его или инициализировать "
+"устройство!"
+
+#: unc/PBDeviceManager.py:512 unc/PBDeviceManager.py:717
+msgid ""
+"Cannot umount device. A record in progress, timeshit or some external tools "
+"(like samba and nfsd) may cause this problem. Please stop this actions/"
+"applications and try again"
+msgstr ""
+"Привод не может быть отмонтирован. Проблема может быть из-за процесса "
+"записи, наличия свопа или работы внешней программы (таких как самба или "
+"NFSD). Пожалуйста, остановите их и попробуйте еще раз!"
+
+#: unc/PBDeviceManager.py:533 unc/PBExpander.py:43
+msgid "Expand to device"
+msgstr "Расширить память на устройство"
+
+#: unc/PBDeviceManager.py:534
+msgid "Get rid of expand"
+msgstr "Оменить расширение памяти?"
+
+#: unc/PBDeviceManager.py:543
+msgid "Expanding ready! Restarting box NOW"
+msgstr "Расширение памяти завершено! Перезагрузитесь!"
+
+#: unc/PBDeviceManager.py:547
+msgid "Device not mountet - please mount as something"
+msgstr "Устройство не cмонтированно - нужно его монтировать"
+
+#: unc/PBDeviceManager.py:549
+msgid "No EXT2- or EXT3-filesystem! Please format the device."
+msgstr "Не EXT2/EXT3 файловая система! Пожалуйста отформатируйте устройство."
+
+#: unc/PBDeviceManager.py:551 unc/PBDeviceManager.py:561
+msgid "Error"
+msgstr "Ошибка"
+
+#: unc/PBDeviceManager.py:557
+msgid "Back in flash again! Restarting box NOW"
+msgstr "Вернитесь к прошивке! Перезапустить Ресивер СЕЙЧАС"
+
+#: unc/PBDeviceManager.py:634
+msgid "Partitions"
+msgstr "Создание разделов"
+
+#: unc/PBDeviceManager.py:636
+msgid "Initialize"
+msgstr "Инициализировать"
+
+#: unc/PBDeviceManager.py:637
+msgid "Swapfile"
+msgstr "Своп-файл"
+
+#: unc/PBDeviceManager.py:658
+msgid "parted is missing - installing it now"
+msgstr "parted отсутствует - установите его сейчас"
+
+#: unc/PBDeviceManager.py:685 unc/PBExpander.py:93
+msgid "rsync is missing - installing it now"
+msgstr "rsync отсутствует, установите его сейчас"
+
+#: unc/PBDeviceManager.py:697
+msgid "No Swapmanager installed!"
+msgstr "Не установлено 'Управление своп-файлом'"
+
+#: unc/PBDeviceManager.py:715
+msgid ""
+"Partitioning done - please format the partitions in the format you want!"
+msgstr ""
+"'Создание разделов' закончилось - пожалуйста, отформатируйте разделы в "
+"формате, который вы хотите!"
+
+#: unc/PBDeviceManager.py:719
+msgid "Partitioning failed!  Serious disk I/O error."
+msgstr "'Создание разделов' не удалось! Серьезные ошибки ввода/вывода."
+
+#: unc/PBDeviceManager.py:721
+msgid "Partitioning failed!"
+msgstr "'Создание разделов' не удалось"
+
+#: unc/PBDeviceManager.py:1381
+msgid "Format ext2"
+msgstr "Форматировать в ext2"
+
+#: unc/PBDeviceManager.py:1381
+msgid "Format ext3"
+msgstr "Форматировать в ext3"
+
+#: unc/PBDeviceManager.py:1381
+msgid "Format fat32"
+msgstr "Форматировать в fat32"
+
+#: unc/PBDeviceManager.py:1383
+msgid "Format ext4"
+msgstr "Форматировать в ext4"
+
+#: unc/PBExpander.py:45
+msgid "End outsourcing"
+msgstr "Конец аутсорсинга"
+
+#: unc/PBExpander.py:46
+msgid "Label Device"
+msgstr "Метка устройства"
+
+#: unc/PBExpander.py:47
+msgid "Swap-Manager"
+msgstr "Управление подкачкой (своп)"
+
+#: unc/PBExpander.py:48
+msgid "Devices Info"
+msgstr "Информация об устройстве"
+
+#: unc/PBExpander.py:91
+msgid "Select device to expand to!"
+msgstr "Выберете устройство для расширения памяти!"
+
+#: unc/PBExpander.py:98 unc/PBExpander.py:253
+msgid "No device selected"
+msgstr "Не выбрано устройство"
+
+#: unc/PBExpander.py:101
+#, python-format
+msgid "Expand to %s?"
+msgstr "Расширить память на %s"
+
+#: unc/PBExpander.py:106 unc/PBExpander.py:227 unc/PBExpander.py:261
+#: unc/info.py:107 unc/pbcamdinstaller.py:92 unc/pbcamdinstaller.py:157
+#: unc/pbcamdinstaller.py:248 unc/pbremover.py:76 unc/pbremover.py:113
+#: unc/pbremover.py:150 unc/pbremover.py:181 unc/pbscriptstarter.py:224
+#: unc/pbscriptstarter.py:236 unc/pbscriptstarter.py:247
+msgid "answer is None"
+msgstr "ответ НЕТ"
+
+#: unc/PBExpander.py:108 unc/PBExpander.py:229 unc/PBExpander.py:263
+#: unc/info.py:109 unc/pbcamdinstaller.py:94 unc/pbcamdinstaller.py:159
+#: unc/pbcamdinstaller.py:250 unc/pbremover.py:78 unc/pbremover.py:115
+#: unc/pbremover.py:152 unc/pbremover.py:183 unc/pbscriptstarter.py:226
+#: unc/pbscriptstarter.py:238 unc/pbscriptstarter.py:249
+msgid "you were not confirming"
+msgstr "вы не подтвердили"
+
+#: unc/PBExpander.py:158 unc/PBExpander.py:198
+msgid "Expanding ready!"
+msgstr "Расширение памяти завершено!"
+
+#: unc/PBExpander.py:201
+msgid "No ext-filesystem - please format (ext3 is recommended)"
+msgstr ""
+"Не ext-файловая система - пожалуйста, отформатируйте (ext3 рекомендуется)"
+
+#: unc/PBExpander.py:205
+#, python-format
+msgid "Expanding was canceled, because %s"
+msgstr "Расширение памяти прервано по причине %s"
+
+#: unc/PBExpander.py:223
+msgid "Get rid of Expand?"
+msgstr "Оменить расширение памяти?"
+
+#: unc/PBExpander.py:238
+#, python-format
+msgid "Unexpanding was canceled, because %s"
+msgstr "Отмена расширение памяти прервана по причине %s"
+
+#: unc/PBExpander.py:246
+msgid "Select device to label!"
+msgstr "Выберете устройство для назначения метки!"
+
+#: unc/PBExpander.py:248
+msgid "e2label is missing - installing it now"
+msgstr "e2label отсутствует, установите его сейчас"
+
+#: unc/PBExpander.py:256
+#, python-format
+msgid "Label %s?"
+msgstr "Метка %s?"
+
+#: unc/PBExpander.py:265
+msgid "Select a label(name)"
+msgstr "Выберете метку (имя)"
+
+#: unc/PBExpander.py:280
+msgid "Labeling succesfull - remounting partition"
+msgstr "Маркировка успешна - перемонтирование раздела"
+
+#: unc/PBExpander.py:285
+msgid "Something went wrong - please contact PB-Board"
+msgstr "Что-то пошло не так - пожалуйста, свяжитесь с PB-Board"
+
+#: unc/PBExpander.py:288
+#, python-format
+msgid "Labeling was canceled, because %s"
+msgstr "Маркировка была отменена, поскольку %s"
+
+#: unc/PBTimeInput.py:15 unc/swap.py:183
+msgid "OK"
+msgstr "OK"
+
+#: unc/PBTimeInput.py:16 unc/swap.py:184
+msgid "Cancel"
+msgstr "Отмена"
+
+#: unc/PBTimeInput.py:36
+msgid "%d.%B %Y"
+msgstr "%d.%B %Y"
+
+#: unc/PBTimeInput.py:41
+msgid "Time"
+msgstr "Время"
+
+#: unc/PBnetinfo.py:36 unc/PBnetinfo.py:46
+msgid "TCP Connections"
+msgstr "Соединения TCP"
+
+#: unc/PBnetinfo.py:37
+msgid "General Info"
+msgstr "Общая информация"
+
+#: unc/PBnetinfo.py:38 unc/PBnetinfo.py:50
+msgid "Speed Info"
+msgstr "Информация о скорости"
+
+#: unc/PBnetinfo.py:48
+msgid "General Network Info"
+msgstr "Общая информация о сети"
+
+#: unc/addonexpert.py:96
+msgid "Downloading all available ipk from feed. Please wait..."
+msgstr "Загрузка перечня всех доступных Ipk с фида. Пожалуйста, подождите..."
+
+#: unc/addonexpert.py:114
+#, python-format
+msgid "Do you really want to download the addon %s?"
+msgstr "Вы действительно хотите загрузить плагин %s?"
+
+#: unc/addonexpert.py:116
+msgid "Where do you want to install the picons?"
+msgstr "Где находятся пиконы?"
+
+#: unc/addonexpert.py:118
+#, python-format
+msgid "Do you really want to remove the ipk %s or reinstall it?"
+msgstr "Вы действительно хотите удалить ipk %s или переустановить его?"
+
+#: unc/addonexpert.py:120
+#, python-format
+msgid ""
+"The ipk %s is already installed and an update is available. What do you want "
+"to do?"
+msgstr ""
+"ipk %s уже установлен и доступно его обновление. Что вы хотите сделать?"
+
+#: unc/addonexpert.py:151
+msgid "Powerboard Expert Installer"
+msgstr "Powerboard Установщик (экспертный)"
+
+#: unc/addonexpert.py:210
+msgid "No new plugins found"
+msgstr "Новые плагины не найдены"
+
+#: unc/addonexpert.py:348
+msgid "Update ipk"
+msgstr "Обновить ipk"
+
+#: unc/addonexpert.py:348
+msgid "Delete ipk"
+msgstr "Удалить ipk"
+
+#: unc/addonexpert.py:399
+msgid "Install ipk"
+msgstr "Установить ipk"
+
+#: unc/addonexpert.py:399
+msgid "Force Install ipk"
+msgstr "'Сильная' установка ipk"
+
+#: unc/addonexpert.py:450
+msgid "Remove ipk"
+msgstr "Удалить ipk"
+
+#: unc/addonexpert.py:450
+msgid "Remove ipk ignoring depends"
+msgstr "Удалить ipk игнорируя зависимости"
+
+#: unc/addonexpert.py:450
+msgid "Reinstall ipk"
+msgstr "Переустановить ipk"
+
+#: unc/info.py:33 unc/info.py:50
+msgid "Memory"
+msgstr "Память"
+
+#: unc/info.py:34 unc/info.py:52
+msgid "Prozesse"
+msgstr "Процессы"
+
+#: unc/info.py:35 unc/info.py:54
+msgid "Show Mounts"
+msgstr "Показать смонтированные"
+
+#: unc/info.py:36 unc/info.py:56
+msgid "CPU-Info"
+msgstr "Инфо процессора"
+
+#: unc/info.py:37 unc/info.py:58
+msgid "Crypt-Info"
+msgstr "Информация о декодировании"
+
+#: unc/info.py:38
+msgid "Spaceview"
+msgstr "Просмотр свободного места"
+
+#: unc/info.py:39 unc/info.py:68
+msgid "Kernel Messages"
+msgstr "Сообщения ядра"
+
+#: unc/info.py:40
+msgid "Device Performance"
+msgstr "Производительность устройства"
+
+#: unc/info.py:41 unc/info.py:72
+msgid "Loaded Modules"
+msgstr "Загруженные модули"
+
+#: unc/info.py:42
+msgid "Netinfo"
+msgstr "О Сети"
+
+#: unc/info.py:92
+msgid "no device connected"
+msgstr "ничего не подключено"
+
+#: unc/info.py:95
+msgid "Select device please!"
+msgstr "Выберете устройство!"
+
+#: unc/info.py:99
+msgid "No device selected!"
+msgstr "Не выбрано устройство!"
+
+#: unc/info.py:102
+#, python-format
+msgid "test performance of %s ?"
+msgstr "тестировать производительность устройства %s?"
+
+#: unc/info.py:111
+#, python-format
+msgid "testing performance of %s"
+msgstr "тестирование производительности %s"
+
+#: unc/info.py:117
+#, python-format
+msgid "performancetest was canceled, because %s"
+msgstr "тест прерван по причине %s"
+
+#: unc/newsreader.py:53
+#, python-format
+msgid ""
+"%s Enigma2 Plugin V%s\n"
+"\n"
+"%s written by stibbich\n"
+"\n"
+"http://www.pb-powerboard.com\n"
+"\n"
+"based on code from 3c5x9"
+msgstr ""
+"%s Enigma2 Plugin V%s\n"
+"\n"
+"%s written by stibbich\n"
+"\n"
+"http://www.pb-powerboard.com\n"
+"\n"
+"based on code from 3c5x9"
+
+#: unc/newsreader.py:68
+#, python-format
+msgid "While showing feed %s some error occurs"
+msgstr "При обращению к фиду %s возникли некоторые ощибки"
+
+#: unc/newsreader.py:204
+msgid "change Feed"
+msgstr "Сменить фид"
+
+#: unc/newsreader.py:205
+msgid "add new Feed"
+msgstr "Добавить новый фид"
+
+#: unc/newsreader.py:206
+msgid "delete Feed from favorites"
+msgstr "Удалить фид из предпочтений"
+
+#: unc/newsreader.py:207
+#, python-format
+msgid "about %s"
+msgstr "О %s"
+
+#: unc/newsreader.py:217
+#, python-format
+msgid ""
+"%s Enigma2 Plugin V%s\n"
+"\n"
+"http://pb-powerboard.com"
+msgstr ""
+"%s Enigma2 Plugin V%s\n"
+"\n"
+"http://pb-powerboard.com"
+
+#: unc/newsreader.py:233
+msgid "select Feed to change"
+msgstr "выберете фид для изменения"
+
+#: unc/newsreader.py:257
+msgid "Please enter a name for the new Feed"
+msgstr "Пожалуйста, введите имя нового фида"
+
+#: unc/newsreader.py:264
+msgid "Please enter a url for the new Feed"
+msgstr "Пожалуйста, введите имя ссылку для нового фида"
+
+#: unc/newsreader.py:272
+msgid "Please enter a description for the new Feed"
+msgstr "Пожалуйста, введите описание нового фида"
+
+#: unc/newsreader.py:287
+#, python-format
+msgid ""
+"changing feed faild!\n"
+"\n"
+"%s"
+msgstr ""
+"не удалось сменить фид!\n"
+"\n"
+"%s"
+
+#: unc/newsreader.py:293
+#, python-format
+msgid ""
+"adding feed faild!\n"
+"\n"
+"%s"
+msgstr "Добавить фид не удалось!/n/n%s"
+
+#: unc/newsreader.py:310
+msgid "select Feed to delete"
+msgstr "выберете фид для удаления"
+
+#: unc/newsreader.py:317
+#, python-format
+msgid ""
+"are you sure to delete this Feed?\n"
+"\n"
+"%s"
+msgstr ""
+"вы уверены в удалении этого фида?\n"
+"\n"
+"%s"
+
+#: unc/newsreader.py:365
+msgid "loading feeddata failed!"
+msgstr "Загрузка данных фида не удалась!"
+
+#: unc/newsreader.py:383
+msgid "Error while reading the feed"
+msgstr "Ошибка чтения фида"
+
+#: unc/newsreader.py:404
+msgid ""
+"\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+
+#: unc/pbcamdinstaller.py:33
+msgid "Install Camd"
+msgstr "Установка САМ"
+
+#: unc/pbcamdinstaller.py:34
+msgid "Uninstall Camd"
+msgstr "Деинсталяция САМ"
+
+#: unc/pbcamdinstaller.py:57
+msgid "Select Camd to install!"
+msgstr "Выберете САМ для установки!"
+
+#: unc/pbcamdinstaller.py:61 unc/pbcamdinstaller.py:240
+msgid "No Camd selected"
+msgstr "Не выбран ЕМУ"
+
+#: unc/pbcamdinstaller.py:68
+msgid "How to install oscam?"
+msgstr "Как установить oscam?"
+
+#: unc/pbcamdinstaller.py:70 unc/pbcamdinstaller.py:76
+#, python-format
+msgid "Install %s?"
+msgstr "Установить %s?"
+
+#: unc/pbcamdinstaller.py:78
+#, python-format
+msgid "Select camscript to add %s?"
+msgstr "Выберете САМ-скрипт для добавления %s?"
+
+#: unc/pbcamdinstaller.py:83
+msgid "No script selected"
+msgstr "Не выбран скрипт"
+
+#: unc/pbcamdinstaller.py:86
+#, python-format
+msgid "Add to %s?"
+msgstr "Добавить в %s?"
+
+#: unc/pbcamdinstaller.py:152
+msgid "Camd has been added!"
+msgstr "ЕМУ добавлен!"
+
+#: unc/pbcamdinstaller.py:205
+msgid "Camd has been installed!"
+msgstr "ЕМУ установлен!"
+
+#: unc/pbcamdinstaller.py:209
+#, python-format
+msgid "Camd install was canceled, because %s"
+msgstr "ЕМУ не установлен по причине %s"
+
+#: unc/pbcamdinstaller.py:236
+msgid "Select Camd to uninstall!"
+msgstr "Выберете САМ для деинсталяции!"
+
+#: unc/pbcamdinstaller.py:243 unc/pbremover.py:71 unc/pbremover.py:108
+#: unc/pbremover.py:145
+#, python-format
+msgid "remove %s?"
+msgstr "удалить %s?"
+
+#: unc/pbcamdinstaller.py:254
+msgid "Camd has been uninstalled!"
+msgstr "ЕМУ деинсталирован!"
+
+#: unc/pbcamdinstaller.py:258
+#, python-format
+msgid "Camd uninstall was canceled, because %s"
+msgstr "Деинсталяция ЕМУ прервана по причине %s"
+
+#: unc/pbcamdinstaller.py:278
+msgid "Install standalone"
+msgstr "Установить автономно"
+
+#: unc/pbcamdinstaller.py:278
+msgid "Add oscam to other cam"
+msgstr "Добавить в сервер OSCAM карту или другой ЕМУ"
+
+#: unc/pbcamrestart.py:38
+msgid "Configure camrestart"
+msgstr "Конфигурация рестарта ЕМУ"
+
+#: unc/pbcamrestart.py:63
+msgid "When should the cam restart?"
+msgstr "Когда следует рестартовать САМ?"
+
+#: unc/pbcamrestart.py:65
+msgid "There is no cam to restart - install and/or start one!"
+msgstr "Не  сконфигурирован рестарт САМ - настройте и/или запустите его!"
+
+#: unc/pbcamrestart.py:67 unc/pbscriptstarter.py:88 unc/pbupdate.py:62
+msgid "cron is missing - installing it now"
+msgstr "cron отсутствует, установите его сейчас"
+
+#: unc/pbcamrestart.py:76 unc/pbscriptstarter.py:86 unc/pbupdate.py:124
+#: unc/pbupdate.py:227
+msgid "Select day!"
+msgstr "Выберете день!"
+
+#: unc/pbcamrestart.py:78
+msgid "switch off camrestart?"
+msgstr "отключить САМ-рестарт?"
+
+#: unc/pbcamrestart.py:85 unc/pbcamrestart.py:116
+msgid "Please change camrestarttime"
+msgstr "Пожалуйста, измените время рестарта САМ"
+
+#: unc/pbcamrestart.py:108
+#, python-format
+msgid "Cam will be restarted every day at %s"
+msgstr "ЕМУ будет рестартовать ежедневно в %s"
+
+#: unc/pbcamrestart.py:139
+#, python-format
+msgid "Cam will be restarted every week on %s at %s"
+msgstr "ЕМУ будет рестартовать еженедельно в %s в %s"
+
+#: unc/pbcamrestart.py:144 unc/pbcamrestart.py:146 unc/pbscriptstarter.py:155
+#: unc/pbscriptstarter.py:157 unc/pbupdate.py:67 unc/pbupdate.py:69
+#: unc/pbupdate.py:76 unc/pbupdate.py:78 unc/pbupdate.py:98
+#: unc/pbupdate.py:100
+msgid "action canceled"
+msgstr "действие отменено"
+
+#: unc/pbcamrestart.py:160
+msgid "Camrestart is switched to off!"
+msgstr "Авто рестарт ЕМУ отключен!"
+
+#: unc/pbcamrestart.py:168 unc/pbcamrestart.py:211 unc/pbscriptstarter.py:179
+#: unc/pbscriptstarter.py:400 unc/pbupdate.py:194 unc/pbupdate.py:297
+#: unc/pbupdate.py:340
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: unc/pbcamrestart.py:172 unc/pbcamrestart.py:212 unc/pbscriptstarter.py:183
+#: unc/pbscriptstarter.py:401 unc/pbupdate.py:198 unc/pbupdate.py:301
+#: unc/pbupdate.py:341
+msgid "Monday"
+msgstr "Понедельник"
+
+#: unc/pbcamrestart.py:176 unc/pbcamrestart.py:213 unc/pbscriptstarter.py:187
+#: unc/pbscriptstarter.py:402 unc/pbupdate.py:202 unc/pbupdate.py:305
+#: unc/pbupdate.py:342
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: unc/pbcamrestart.py:180 unc/pbcamrestart.py:214 unc/pbscriptstarter.py:191
+#: unc/pbscriptstarter.py:403 unc/pbupdate.py:206 unc/pbupdate.py:309
+#: unc/pbupdate.py:343
+msgid "Wednesday"
+msgstr "Среда"
+
+#: unc/pbcamrestart.py:184 unc/pbcamrestart.py:215 unc/pbscriptstarter.py:195
+#: unc/pbscriptstarter.py:404 unc/pbupdate.py:210 unc/pbupdate.py:313
+#: unc/pbupdate.py:344
+msgid "Thursday"
+msgstr "Четверг"
+
+#: unc/pbcamrestart.py:188 unc/pbcamrestart.py:216 unc/pbscriptstarter.py:199
+#: unc/pbscriptstarter.py:405 unc/pbupdate.py:214 unc/pbupdate.py:317
+#: unc/pbupdate.py:345
+msgid "Friday"
+msgstr "Пятница"
+
+#: unc/pbcamrestart.py:192 unc/pbcamrestart.py:217 unc/pbscriptstarter.py:203
+#: unc/pbscriptstarter.py:406 unc/pbupdate.py:218 unc/pbupdate.py:321
+#: unc/pbupdate.py:346
+msgid "Saturday"
+msgstr "Суббота"
+
+#: unc/pbcamrestart.py:268 unc/pbscriptstarter.py:349 unc/pbupdate.py:397
+msgid "Daily"
+msgstr "ежедневно"
+
+#: unc/pbcamrestart.py:268 unc/pbscriptstarter.py:349 unc/pbupdate.py:397
+msgid "Weekly"
+msgstr "еженедельно"
+
+#: unc/pbcamrestart.py:268 unc/pbupdate.py:397
+msgid "Off"
+msgstr "Выкл"
+
+#: unc/pbradio.py:92
+msgid ""
+" red\t = delete \n"
+" green\t = add \n"
+" bouquet +/-\t = change stream-/playlist \n"
+" TV\t = stop stream \n"
+" OK\t = start stream \n"
+msgstr ""
+" красный\t = удалить \n"
+" зеленый\t = добавить \n"
+" букет +/-\t = сменить поток/плейлист \n"
+" TV\t = остановить поток\n"
+" OK\t = стартовать поток\n"
+
+#: unc/pbradio.py:93
+msgid "Usage"
+msgstr "Используется"
+
+#: unc/pbremover.py:33
+msgid "Remove an extension-plugin"
+msgstr "Удалить плагин расширение"
+
+#: unc/pbremover.py:34
+msgid "Remove a system-plugin"
+msgstr "Удалить системный плагин"
+
+#: unc/pbremover.py:35
+msgid "Remove a skin"
+msgstr "Удалить скин"
+
+#: unc/pbremover.py:37
+msgid "Remove crashlogs"
+msgstr "Удалить краш-логи"
+
+#: unc/pbremover.py:64
+msgid "Select extension to remove!"
+msgstr "Выберете расширение для удаления!"
+
+#: unc/pbremover.py:68
+msgid "No extension selected"
+msgstr "Не выбрано расширение"
+
+#: unc/pbremover.py:82
+msgid "Extension has been removed!"
+msgstr "Плагин удален!"
+
+#: unc/pbremover.py:86
+#, python-format
+msgid "Remove of extension was canceled, because %s"
+msgstr "Удаление расширений прервано по причине %s"
+
+#: unc/pbremover.py:101
+msgid "Select systemplugin to remove!"
+msgstr "Выберете системный плагин для удаления!"
+
+#: unc/pbremover.py:105
+msgid "No systemplugin selected"
+msgstr "Не выбран системный плагин"
+
+#: unc/pbremover.py:119
+msgid "Systemplugin has been removed!"
+msgstr "Системный плагин удален!"
+
+#: unc/pbremover.py:123
+#, python-format
+msgid "Remove of systemplugin was canceled, because %s"
+msgstr "Удаление системного плагина прервано по причине %s"
+
+#: unc/pbremover.py:138
+msgid "Select skin to remove!"
+msgstr "Выберете скин для удаления!"
+
+#: unc/pbremover.py:142
+msgid "No skin selected"
+msgstr "Не выбран скин"
+
+#: unc/pbremover.py:156
+msgid "Skin has been removed!"
+msgstr "Скин удален!"
+
+#: unc/pbremover.py:160
+#, python-format
+msgid "Remove of skin was canceled, because %s"
+msgstr "Удаление скина прервано по причине %s"
+
+#: unc/pbremover.py:177
+msgid "Remove crashlogs?"
+msgstr "Удалить краш-логи?"
+
+#: unc/pbremover.py:187
+msgid "Crashlogs have been removed!"
+msgstr "Краш-логи удалены!"
+
+#: unc/pbremover.py:191
+#, python-format
+msgid "Remove of crashlogs was canceled, because %s"
+msgstr "Удаление краш-логов прервано по причине %s"
+
+#: unc/pbscriptstarter.py:39
+msgid "Configure how to handle script"
+msgstr "Конфигурация запуска скриптов"
+
+#: unc/pbscriptstarter.py:48
+msgid "There is no Script to execute"
+msgstr "Нет скрипта для выполнения"
+
+#: unc/pbscriptstarter.py:52
+msgid "Select Script to execute!"
+msgstr "Выберете скрипт для выполнения!"
+
+#: unc/pbscriptstarter.py:56
+msgid "No Script selected"
+msgstr "Не выбран скрипт"
+
+#: unc/pbscriptstarter.py:59 unc/pbscriptstarter.py:293
+#, python-format
+msgid "How to execute %s?"
+msgstr "Как запускать %s?"
+
+#: unc/pbscriptstarter.py:64
+msgid "How to execute the script?"
+msgstr "Как запускать скрипт?"
+
+#: unc/pbscriptstarter.py:66 unc/pbscriptstarter.py:295
+#, python-format
+msgid "Remove %s from autostart?"
+msgstr "Удалить %s из автостарта?"
+
+#: unc/pbscriptstarter.py:68
+msgid "switch off starting of script?"
+msgstr "отключить старт скрипта?"
+
+#: unc/pbscriptstarter.py:73
+msgid "Execute at Startup"
+msgstr "Запустить при старте"
+
+#: unc/pbscriptstarter.py:75
+msgid "Execute every day/week"
+msgstr "Запускать каждый день/неделю"
+
+#: unc/pbscriptstarter.py:77 unc/pbscriptstarter.py:215
+#, python-format
+msgid "Execute %s ?"
+msgstr "Запустить %s ?"
+
+#: unc/pbscriptstarter.py:96 unc/pbscriptstarter.py:127
+msgid "Please change starttime"
+msgstr "Пожалуйста, измените время старта"
+
+#: unc/pbscriptstarter.py:119
+#, python-format
+msgid "%s will start every day at %s"
+msgstr "%s будет стартовать ежедневно в %s"
+
+#: unc/pbscriptstarter.py:150
+#, python-format
+msgid "%s will start every week on %s at %s"
+msgstr "%s будет стартовать еженедельно по %s в %s "
+
+#: unc/pbscriptstarter.py:171
+#, python-format
+msgid "Starting of %s is switched to off!"
+msgstr "Старт %s отключен!"
+
+#: unc/pbscriptstarter.py:240 unc/pbscriptstarter.py:251
+#, python-format
+msgid "executing %s"
+msgstr "выполняется %s"
+
+#: unc/pbscriptstarter.py:257
+#, python-format
+msgid "executing was canceled, because %s"
+msgstr "выполнение прервано по причине %s"
+
+#: unc/pbscriptstarter.py:298
+#, python-format
+msgid "switch off starting of %s?"
+msgstr "отключить старт %s?"
+
+#: unc/pbscriptstarter.py:457
+msgid "Execute permanently"
+msgstr "Выполнять постоянно"
+
+#: unc/pbscriptstarter.py:457
+msgid "run periodically"
+msgstr "запускать периодически"
+
+#: unc/pbscriptstarter.py:457
+msgid "only run once"
+msgstr "один раз"
+
+#: unc/pbscriptstarter.py:508
+msgid "Execute every startup"
+msgstr "Запустить при загрузке"
+
+#: unc/pbscriptstarter.py:508
+msgid "only run this time permanently"
+msgstr "запускать только на этот раз постоянно"
+
+#: unc/pbsetup.py:41
+msgid "Satfind"
+msgstr "Поиск спутника"
+
+#: unc/pbsetup.py:42
+msgid "Auto Systemupdate"
+msgstr "Авто обновление системы"
+
+#: unc/pbsetup.py:44
+msgid "PB Device Manager"
+msgstr "PB Управление устройствами"
+
+#: unc/pbsetup.py:46
+msgid "PB Label Mounting"
+msgstr "PB Монтирование по метке"
+
+#: unc/pbsetup.py:47
+msgid "PB Set Picon Path"
+msgstr "PB Путь для пиконов"
+
+#: unc/pbsetup.py:48
+msgid "Delete plugins and/or crashlogs"
+msgstr "Удаление плагинов и/или краш-логов"
+
+#: unc/pbsetup.py:49
+msgid "Camd Installer-Uninstaller"
+msgstr "Инсталятор/Деинсталятор ЕМУ"
+
+#: unc/pbsetup.py:50
+msgid "PB Expert Installer"
+msgstr "Powerboard Установщик (экспертный)"
+
+#: unc/pbsetup.py:51
+msgid "Script Starter"
+msgstr "Запуск скриптов"
+
+#: unc/pbsetup.py:52
+msgid "Auto Cam Restarter"
+msgstr "Авто рестарт ЕМУ"
+
+#: unc/pbsetup.py:54
+msgid "LCD Skin Selector"
+msgstr "Выбор скина дисплея"
+
+#: unc/pbupdate.py:39
+msgid "When to show if update is available"
+msgstr "Когда следует показать информацию о наличии обновлений"
+
+#: unc/pbupdate.py:40
+msgid "When to do automatic update"
+msgstr "Когда следует запускать авто-обновление"
+
+#: unc/pbupdate.py:41
+msgid "Update the box NOW"
+msgstr "Обновить ресивер СЕЙЧАС"
+
+#: unc/pbupdate.py:51
+msgid "When would you like to search for updates?"
+msgstr "Когда следует запускать поиск обновлениий?"
+
+#: unc/pbupdate.py:53
+msgid "When would you update the box?"
+msgstr "Когда вы хотите обновить ПО ресивера?"
+
+#: unc/pbupdate.py:71
+msgid "Classic Systemupdate"
+msgstr "Класическое обновление системы"
+
+#: unc/pbupdate.py:92
+msgid "Autoupdate is switched to off!"
+msgstr "Авто обновление отключено!"
+
+#: unc/pbupdate.py:114
+msgid "Updatemessage is switched to off!"
+msgstr "Показ сообщений обновления отключено!"
+
+#: unc/pbupdate.py:126
+msgid "switch off autoupdate?"
+msgstr "отключить авто-обновление?"
+
+#: unc/pbupdate.py:133 unc/pbupdate.py:164
+msgid "Please choose updatetime"
+msgstr "Пожалуйста, выберите время обновления"
+
+#: unc/pbupdate.py:156
+#, python-format
+msgid "Box will be updated every day at %s"
+msgstr "Ресивер будет обновляться ежедневно в %s"
+
+#: unc/pbupdate.py:187
+#, python-format
+msgid "Box will be updated every week on %s at %s"
+msgstr "Ресивер будет обновляться еженедельно по %s в %s"
+
+#: unc/pbupdate.py:229
+msgid "switch off show updatemessage?"
+msgstr "отключить показ сообщений обновления?"
+
+#: unc/pbupdate.py:236 unc/pbupdate.py:267
+msgid "Choose time for updatemessage"
+msgstr "Выбрать время для обновления сообщений"
+
+#: unc/pbupdate.py:259
+#, python-format
+msgid "Updatemessage will be shown every day at %s"
+msgstr "Сообщение о доступных обновлениях будет показано ежедневно в %s"
+
+#: unc/pbupdate.py:290
+#, python-format
+msgid "Updatemessage will be shown every week on %s at %s"
+msgstr ""
+"Сообщение о доступных обновлениях будет показано еженедельно по %s в %s"
+
+#: unc/plugin.py:38
+msgid "Powerboard-Panel"
+msgstr "Панель Powerboard"
+
+#: unc/plugin.py:54
+msgid "Softwaremanager"
+msgstr "Управление ПО"
+
+#: unc/plugin.py:56
+msgid "Cam Manager"
+msgstr "Менеджер CAM"
+
+#: unc/plugin.py:58
+msgid "Wildcard"
+msgstr "Подстановки"
+
+#: unc/plugin.py:59
+msgid "PB-Newsreader"
+msgstr "PB-Новости"
+
+#: unc/plugin.py:60
+msgid "Powerboard-System-Setup"
+msgstr "PB Установки системы"
+
+#: unc/plugin.py:61
+msgid "Powerboard-System-Settings"
+msgstr "PB Настройки системы"
+
+#: unc/plugin.py:62
+msgid "Powerboard-System-Info"
+msgstr "PB Иноформация о системе"
+
+#: unc/plugin.py:63
+msgid "Team-Info"
+msgstr "Команда PB"
+
+#: unc/plugin.py:64
+msgid "Internetradio"
+msgstr "Интернет-радио"
+
+#: unc/plugin.py:66
+msgid "Restart GUI"
+msgstr "Перезапустить GUI"
+
+#: unc/spaceview.py:28
+msgid "flash"
+msgstr "Флеш"
+
+#: unc/spaceview.py:34
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+#: unc/swap.py:61
+msgid "Save"
+msgstr "Сохранить"
+
+#: unc/swap.py:76
+msgid "Manage Swap File"
+msgstr "Управление своп-файлом"
+
+#: unc/swap.py:92
+msgid "Activate Swap File?"
+msgstr "Активировать своп-файл?"
+
+#: unc/swap.py:99
+msgid "Swap file size"
+msgstr "Размер своп-файла"
+
+#: unc/swap.py:101
+msgid "Swap file location"
+msgstr "Расположение своп-файла"
+
+#: unc/swap.py:108
+msgid "Saving swap config. Please wait..."
+msgstr "Сохранение конфигурации подкачки. Пожалуйста, подождите ..."
+
+#: unc/swap.py:131
+msgid "Creating Swap file..."
+msgstr "Создание своп-файла..."
+
+#: unc/swap.py:141
+msgid "Deleting Swap file..."
+msgstr "Удаление своп-файла..."
+
+#: unc/swap.py:143
+msgid "Nothing to do!"
+msgstr "ничего не делать"
+
+#: unc/swap.py:147
+msgid "Swap process completed successfully!"
+msgstr "Своп-файл успешно создан!"
+
+#: unc/swap.py:149
+msgid "Swap process killed by user!"
+msgstr "Создание своп-файла отменено пользователем!"
+
+#: unc/swap.py:210
+msgid "Done"
+msgstr "Готово"
+
+#: unc/swap.py:211
+msgid "Please Press OK Button to close windows!"
+msgstr "Пожалуйста, нажмите кнопку OK, чтобы закрыть окна!"
+
+#: unc/swap.py:223
+msgid "Action killed by user"
+msgstr "Действие прервал пользователь"
+
+#: unc/swap.py:253
+msgid "No Delay"
+msgstr "Без задержки"
+
+#: unc/swap.py:254
+msgid "second"
+msgstr "второй"
+
+#: unc/swap.py:255 unc/swap.py:256 unc/swap.py:257 unc/swap.py:258
+#: unc/swap.py:259 unc/swap.py:260 unc/swap.py:261
+msgid "seconds"
+msgstr "секунд"

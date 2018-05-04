@@ -1,0 +1,2088 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-12 17:02+0100\n"
+"PO-Revision-Date: 2016-11-13 14:07+0100\n"
+"Last-Translator: Terrajoe <terrajoe@pb-powerboard.com>\n"
+"Language-Team: PB-Powerboard-Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:130
+msgid "Downloading all available ipk from feed. Please wait..."
+msgstr "Lade eine Liste aller ipk-Dateien vom Feed. Einen Augenblick Geduld..."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:156
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:140
+#, python-format
+msgid "Do you really want to download the addon %s?"
+msgstr "Wie soll %s installiert werden? Abbruch mit Exit"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:158
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:142
+msgid "Where do you want to install the picons?"
+msgstr "Wohin sollen die Picons installiert werden?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:160
+#, python-format
+msgid "Do you really want to remove the ipk %s or reinstall it?"
+msgstr "%s wirklich entfernen oder neu installieren?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:162
+#, python-format
+msgid ""
+"The ipk %s is already installed and an update is available. What do you want "
+"to do?"
+msgstr ""
+"%s ist installiert und eine neuere Version ist verfügbar. Was soll geschehen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:192
+msgid "Powerboard Expert Installer"
+msgstr "Powerboard Expert Installer"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:248
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:232
+msgid "No new plugins found"
+msgstr "Keine neuen Plugins gefunden"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:437
+msgid "Update ipk"
+msgstr "ipk aktualisieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:437
+msgid "Delete ipk"
+msgstr "ipk deinstallieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:522
+msgid "Install ipk"
+msgstr "ipk installieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:522
+msgid "Force Install ipk"
+msgstr "ipk mit 'force'-Option installieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:608
+msgid "Remove ipk"
+msgstr "ipk deinstallieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:608
+msgid "Remove ipk ignoring depends"
+msgstr "ipk deinstallieren ohne Abhängigkeiten zu beachten"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addonexpert.py:608
+msgid "Reinstall ipk"
+msgstr "ipk neu installieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:114
+msgid "Downloading addon information. Please wait..."
+msgstr "Lade die Addon-Informationen. Einen kleinen Augenblick Geduld..."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:144
+#, python-format
+msgid "Do you really want to remove the addon %s or reinstall it?"
+msgstr "%s wirklich entfernen oder neu installieren?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:146
+#, python-format
+msgid ""
+"The addon %s is already installed and an update is available. What do you "
+"want to do?"
+msgstr ""
+"%s ist installiert und eine neuere Version ist verfügbar. Was soll geschehen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:176
+msgid "Powerboard AddOn Browser"
+msgstr "Powerboard AddOn Browser"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:377
+msgid "Update Addon"
+msgstr "Erweiterung aktualisieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:377
+msgid "Delete Addon"
+msgstr "Erweiterung deinstallieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:462
+msgid "Install Addon"
+msgstr "Erweiterung installieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:462
+msgid "Force Install Addon"
+msgstr "Erweiterung mit 'force'-Option installieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:548
+msgid "Remove Addon"
+msgstr "Erweiterung deinstallieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:548
+msgid "Remove Addon ignoring depends"
+msgstr "Erweiterung deinstallieren ohne Abhängigkeiten zu beachten"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/addon.py:548
+msgid "Reinstall Addon"
+msgstr "Erweiterung neu installieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/backuppath.py:42
+#: /home/image/po/neu/PowerboardCenter_Dev/backuppath.py:107
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:462
+#: /home/image/po/neu/PowerboardCenter_Dev/PBTimeInput.py:23
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:212
+msgid "Cancel"
+msgstr "Abbruch"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/backuppath.py:43
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:83
+msgid "Save"
+msgstr "Speichern"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/backuppath.py:47
+msgid "Backup path"
+msgstr "Backup Pfad"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/backuppath.py:61
+msgid ""
+"GUI needs a restart to apply the new backuppath\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"Enigma2 muß neu gestartet werden, um den neuen Backup-Pfad zu übernehmen - "
+"jetzt neu starten?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/backuppath.py:62
+#: /home/image/po/neu/PowerboardCenter_Dev/PBConfigs.py:124
+msgid "Restart GUI now?"
+msgstr "Jetzt das Userinterface neu starten?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/backuppath.py:108
+#: /home/image/po/neu/PowerboardCenter_Dev/PBTimeInput.py:22
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:211
+msgid "OK"
+msgstr "OK"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/backuppath.py:142
+msgid "Invalid Location"
+msgstr "Ungültige Ort"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:57
+msgid "Flash On the Fly"
+msgstr "Flashen   Online / Lokal"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:60
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:130
+#: /home/image/po/neu/PowerboardCenter_Dev/PBConfigs.py:67
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:66
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:150
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:264
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:372
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:97
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:182
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:298
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:415
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:352
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:398
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:534
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:205
+#: /home/image/po/neu/PowerboardCenter_Dev/spaceview.py:107
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:84
+msgid "Exit"
+msgstr "Zurück"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:62
+msgid "Local = Flash a image from local path /hdd/images"
+msgstr "Image von HDD oder USB flashen."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:63
+msgid "Online = Download a image and flash it"
+msgstr "Image online laden und flashen."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:76
+msgid ""
+"No /hdd found !!\n"
+"Please make sure you have a HDD mounted.\n"
+"\n"
+"Exit plugin."
+msgstr ""
+"Keine HDD gefunden!!\n"
+"Es muss eine HDD gemountet sein.\n"
+"\n"
+"Plugin wird beendet."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:79
+msgid ""
+"Not enough free space on /hdd !!\n"
+"You need at least 300Mb free space.\n"
+"\n"
+"Exit plugin."
+msgstr ""
+"Nicht genügend freier Speicherplatz auf /hdd!\n"
+"Sie benötigen mindestens 300 MB freien Speicherplatz.\n"
+"\n"
+"Plugin wird beendet."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:82
+msgid ""
+"ofgwrite not found !!\n"
+"Please make sure you have ofgwrite installed in /usr/bin/ofgwrite.\n"
+"\n"
+"Exit plugin."
+msgstr ""
+"ofgwrite nicht gefunden !!\n"
+"Bitte installieren Sie ofgwrite nach /usr/bin/ofgwrite.\n"
+"\n"
+"Plugin wird beendet."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:128
+msgid "Flash On the fly (select a image)"
+msgstr "Image zum Flashen auswählen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:129
+msgid "Flash"
+msgstr "Flash"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:172
+#, python-format
+msgid ""
+"Do you really want to delete\n"
+"%s ?"
+msgstr ""
+"Wollen Sie %s\n"
+"wirklich löschen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:244
+msgid "The image is downloaded. Do you want to flash now?"
+msgstr ""
+"Das Image ist herruntergeladen,\n"
+"wollen Sie jetzt Flashen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:246
+msgid "Download Failed !!"
+msgstr "Herunterladen gescheitert !!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:256
+msgid "Unzipping files, Please wait ..."
+msgstr "Datei wird entpackt, Bitte warten..."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:265
+msgid "Flashing: "
+msgstr "Flashing: "
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:267
+msgid "Simulate (no write)"
+msgstr "Simulation (kein Schreibvorgang)"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:271
+msgid "Show only found image and mtd partitions.\n"
+msgstr "Zeige nur verfügbare Images und MTD Partitionen.\n"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:274
+msgid "root and kernel"
+msgstr "root und kernel"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:277
+msgid "ofgwrite will stop enigma2 now to run the flash.\n"
+msgstr "ofgwrite stoppt jetzt Enigma2 um den Flashvorgang zu starten.\n"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:278
+msgid "Your STB will freeze during the flashing process.\n"
+msgstr ""
+"Während des Flashvorganges ist Ihr Receiver unbedienbar und das Bild wird "
+"stoppen.\n"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:279
+msgid "Please: DO NOT reboot your STB and turn off the power.\n"
+msgstr "Bitte: Den Receiver keinesfalls neustarten oder ausschalten!\n"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:280
+msgid "The image or kernel will be flashing and auto booted in few minutes.\n"
+msgstr ""
+"Image oder Kernel werden geflasht - Ihr Receiver startet in wenigen Minuten "
+"neu.\n"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:282
+msgid "GB800SOLO takes about 20 mins !!\n"
+msgstr "GB800Solo benötigt mehr als 20 Minutren!!\n"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:376
+msgid "Delete"
+msgstr "Löschen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:377
+msgid "Devices"
+msgstr "Laufwerk"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:392
+#, python-format
+msgid "Downloading %s"
+msgstr "Herunterladen %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:404
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:431
+msgid "Downloading"
+msgstr "Herunterladen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/Flash_Online.py:488
+msgid "Use"
+msgstr "Benutze"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:110
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:126
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:179
+msgid "Memory"
+msgstr "Speicherstatus"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:111
+msgid "Process"
+msgstr "Prozess"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:112
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:128
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:184
+msgid "Show Mounts"
+msgstr "Mounts anzeigen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:113
+msgid "CPU Info"
+msgstr "CPU Info"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:114
+msgid "Crypt Info"
+msgstr "Verschlüsselungs-Info"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:115
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:131
+msgid "Spaceview"
+msgstr "Speicherüberblick"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:116
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:132
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:198
+msgid "Kernel Messages"
+msgstr "Kernelmeldungen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:117
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:133
+msgid "Device Performance"
+msgstr "Laufwerks Leistung"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:118
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:134
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:202
+msgid "Loaded Modules"
+msgstr "Geladene Module"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:119
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:135
+msgid "Netinfo"
+msgstr "Netzinfo"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:119
+msgid "WNetinfo"
+msgstr "WNetinfo"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:127
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:181
+msgid "Prozesse"
+msgstr "Prozesse"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:129
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:186
+msgid "CPU-Info"
+msgstr "CPU-Info"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:130
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:188
+msgid "Crypt-Info"
+msgstr "Verschlüsselungs-Info"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:158
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:110
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:115
+#: /home/image/po/neu/PowerboardCenter_Dev/pbdesign.py:130
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:119
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:130
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:115
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:192
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:125
+msgid "Back"
+msgstr "Zurück"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:159
+msgid "Clear Cache"
+msgstr "Säubere den Cache"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:224
+msgid ""
+"Finished: \n"
+" Free memory before cleaning: "
+msgstr ""
+"Fertig: \n"
+" Freier Speicher vor Reinigung:"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:269
+msgid "no device connected"
+msgstr "Kein Speichergerät angeschlossen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:272
+msgid "Select device please!"
+msgstr "Speichergerät auswählen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:276
+msgid "No device selected!"
+msgstr "Kein Speichergerät ausgewählt!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:279
+#, python-format
+msgid "test performance of %s ?"
+msgstr "Leistung von %s testen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:283
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:173
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:239
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:330
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:127
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:248
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:279
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:178
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:212
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:246
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:276
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:300
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:312
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:322
+msgid "answer is None"
+msgstr "Antwort ist nichts"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:285
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:175
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:241
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:332
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:129
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:250
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:281
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:180
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:214
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:248
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:278
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:302
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:314
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:324
+msgid "you were not confirming"
+msgstr "Keine Zustimmung erteilt"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:287
+#, python-format
+msgid "testing performance of %s"
+msgstr "Teste Leistung von %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/info.py:292
+#, python-format
+msgid "performancetest was canceled, because %s"
+msgstr "Leistungstest wurde abgebrochen, weil: %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/installsomething.py:41
+msgid "Restart Enigma2 to apply the changes?"
+msgstr "Restart enigma2 um die Änderungen anzuwenden?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:66
+#, python-format
+msgid ""
+"%s Enigma2 Plugin V%s\n"
+"\n"
+"%s written by stibbich\n"
+"\n"
+"http://www.pb-powerboard.com\n"
+"\n"
+"based on code from 3c5x9"
+msgstr ""
+"%s Enigma2 Plugin V%s\n"
+"\n"
+"%s geschrieben von stibbich\n"
+"\n"
+"http://www.pb-powerboard.com\n"
+"\n"
+"basiert auf den Code von 3c5x9"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:83
+#, python-format
+msgid "While showing feed %s some error occurs"
+msgstr "Während der Anzeige des Feeds %s sind Fehler aufgetreten"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:206
+msgid "change Feed"
+msgstr "Feed ändern"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:207
+msgid "add new Feed"
+msgstr "neuen Feed hinzufügen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:208
+msgid "delete Feed from favorites"
+msgstr "Feed löschen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:209
+#, python-format
+msgid "about %s"
+msgstr "Über %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:223
+#, python-format
+msgid ""
+"%s Enigma2 Plugin V%s\n"
+"\n"
+"http://pb-powerboard.com"
+msgstr ""
+"%s Enigma2 Plugin V%s\n"
+"\n"
+"http://pb-powerboard.com"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:237
+msgid "select Feed to change"
+msgstr "Feed zum Ändern auswählen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:258
+msgid "Please enter a name for the new Feed"
+msgstr "Bitte neuen Namen für den Feed eingeben"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:264
+msgid "Please enter a url for the new Feed"
+msgstr "Bitte die Webaddresse des Feeds eingeben"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:270
+msgid "Please enter a description for the new Feed"
+msgstr "Bitte eine Beschreibung für den Feed eingeben (optional)"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:283
+#, python-format
+msgid ""
+"changing feed faild!\n"
+"\n"
+"%s"
+msgstr ""
+"Ändern des Feeds fehlgeschlagen!\n"
+"\n"
+"%s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:290
+#, python-format
+msgid ""
+"adding feed faild!\n"
+"\n"
+"%s"
+msgstr ""
+"Feed hinzufügen fehlgeschlagen!\n"
+"\n"
+"%s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:304
+msgid "select Feed to delete"
+msgstr "Feed zum Löschen auswählen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:311
+#, python-format
+msgid ""
+"are you sure to delete this Feed?\n"
+"\n"
+"%s"
+msgstr ""
+"Wirklich den Feed löchen?\n"
+"\n"
+"%s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:363
+msgid "loading feeddata failed!"
+msgstr "Laden der Feed-Daten fehlgeschlagen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:383
+msgid "Error while reading the feed"
+msgstr "Fehler beim Lesen des Feeds aufgetreten"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/newsreader.py:401
+msgid ""
+"\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:39
+msgid "Setup Path for Backup"
+msgstr "Setup Pfad für das Backup"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:41
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:73
+msgid "Backup Keys"
+msgstr "Sichere Keys"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:42
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:75
+msgid "Backup Settings"
+msgstr "Sichere Settings"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:43
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:77
+msgid "Backup Cams and Configs"
+msgstr "Sichere Cams und Configs"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:44
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:79
+msgid "Backup Pluginlist"
+msgstr "Sichere Pluginliste"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:45
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:81
+msgid "Backup all"
+msgstr "volständiges Backup"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:47
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:83
+msgid "Restore Keys"
+msgstr "Stelle Keys wieder her"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:48
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:85
+msgid "Restore Settings"
+msgstr "Stelle Settings wieder her"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:49
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:87
+msgid "Restore Cams and Configs"
+msgstr "Stelle Cams und Configs wieder her"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:50
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:89
+msgid "Restore Pluginlist with new Plugins"
+msgstr "Installiere alte Pluginliste vom Server"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:51
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:91
+msgid "Restore all"
+msgstr "Alle Backups wieder herstellen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:53
+#: /home/image/po/neu/PowerboardCenter_Dev/PBBackup.py:93
+msgid "Delete all Backups"
+msgstr "Entferne alle Backups"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:78
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:87
+msgid "Install Camd"
+msgstr "Camd installieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:79
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:88
+msgid "Uninstall Camd"
+msgstr "Camd deinstallieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:140
+msgid "Select Camd to install!"
+msgstr "Camd zur Installation auswählen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:144
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:323
+msgid "No Camd selected"
+msgstr "Keine Camd ausgewählt"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:151
+msgid "How to install oscam?"
+msgstr "Was soll mit der oscam geschehen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:153
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:158
+#, python-format
+msgid "Install %s?"
+msgstr "%s installieren?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:160
+#, python-format
+msgid "Select camscript to add %s?"
+msgstr "Camskript auswählen, zu dem %s hinzugefügt werden soll"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:165
+msgid "No script selected"
+msgstr "Kein Skript ausgewählt"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:168
+#, python-format
+msgid "Add to %s?"
+msgstr "Zu %s hinzufügen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:234
+msgid "Camd has been added!"
+msgstr "Camd wurde hinzugefügt!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:288
+msgid "Camd has been installed!"
+msgstr "Camd wurde installiert!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:292
+#, python-format
+msgid "Camd install was canceled, because %s"
+msgstr "Camd-Installation wurde abgebrochen, da: %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:319
+msgid "Select Camd to uninstall!"
+msgstr "Welche Camd soll entfernt werden?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:326
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:174
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:208
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:242
+#, python-format
+msgid "remove %s?"
+msgstr "%s entfernen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:336
+msgid "Camd has been uninstalled!"
+msgstr "Camd wurde entfernt!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:340
+#, python-format
+msgid "Camd uninstall was canceled, because %s"
+msgstr "Camd-Deinstallation wurde abgebrochen, da: %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:400
+msgid "Install standalone"
+msgstr "Als eigenständige Camd installieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamdinstaller.py:400
+msgid "Add oscam to other cam"
+msgstr "Oscam als Cardserver zu anderer Camd hinzufügen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:86
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:93
+msgid "Configure camrestart"
+msgstr "Konfiguriere Softcam neustart"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:86
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:85
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:92
+msgid "Configure how to handle script"
+msgstr "Konfiguriere Skriptstart"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:151
+msgid "When should the cam restart?"
+msgstr "Wann soll die Softcam neu starten?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:153
+msgid "There is no cam to restart - install and/or start one!"
+msgstr "Keine Softcam zum Neustarten - bitte eine installieren/starten!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:155
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:170
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:157
+msgid "cron is missing - installing it now"
+msgstr "Cron ist nicht installiert - das wird nun nachgeholt"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:165
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:168
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:214
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:314
+msgid "Select day!"
+msgstr "Wochentag auswählen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:167
+msgid "switch off camrestart?"
+msgstr "Softcamneustart ausschalten?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:174
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:203
+msgid "Please change camrestarttime"
+msgstr "Uhrzeit auswählen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:195
+#, python-format
+msgid "Cam will be restarted every day at %s"
+msgstr "Softcam wird jeden Tag um %s neu gestartet"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:224
+#, python-format
+msgid "Cam will be restarted every week on %s at %s"
+msgstr "Softcam wird jeden %s um %s neu gestartet"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:229
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:231
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:233
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:235
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:162
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:164
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:170
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:172
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:190
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:192
+msgid "action canceled"
+msgstr "Aktion abgebrochen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:244
+msgid "Camrestart is switched to off!"
+msgstr "Softcamneustart ist ausgeschaltet!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:251
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:332
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:255
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:578
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:281
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:380
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:465
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:255
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:332
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:259
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:578
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:285
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:384
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:465
+msgid "Monday"
+msgstr "Montag"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:259
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:332
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:263
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:578
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:289
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:388
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:465
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:263
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:332
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:267
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:578
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:293
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:392
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:465
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:267
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:332
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:271
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:578
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:297
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:396
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:465
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:271
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:332
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:275
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:578
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:301
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:400
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:465
+msgid "Friday"
+msgstr "Freitag"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:275
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:332
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:279
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:578
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:305
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:404
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:465
+msgid "Saturday"
+msgstr "Samstag"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:417
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:493
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:551
+msgid "Daily"
+msgstr "Täglich"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:417
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:493
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:551
+msgid "Weekly"
+msgstr "Wöchentlich"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbcamrestart.py:417
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:551
+msgid "Off"
+msgstr "Aus"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBConfigs.py:48
+msgid "Hide Decode-Info"
+msgstr "Entschlüsselungs-Info verstecken"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBConfigs.py:49
+msgid "Hide only Decode-Emu"
+msgstr "Nur Emu-Entschlüsselung verstecken"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBConfigs.py:50
+msgid "Hide only Decode-Net"
+msgstr "Nur Net-Entschlüsselung verstecken"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBConfigs.py:51
+msgid "Hide Cam-Info"
+msgstr "Cam-Name verstecken"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBConfigs.py:52
+msgid "Use label mount"
+msgstr "Benutze Label mount"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBConfigs.py:53
+msgid "Ocram feeds for picons active"
+msgstr "Ocram Pfad fr Picons aktivieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBConfigs.py:66
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:263
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:297
+msgid "Ok"
+msgstr "Ok"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBConfigs.py:123
+msgid ""
+"GUI needs a restart to apply the new settings\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"Enigma2 muß neu gestartet werden, um die neuen Einstellungen zu übernehmen - "
+"jetzt neu starten?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBCon.py:52
+msgid "Execution progress:"
+msgstr "Ausführungsfortschritt:"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBCon.py:67
+msgid "Execution finished!!"
+msgstr "Ausführung beendet!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbdesign.py:106
+#: /home/image/po/neu/PowerboardCenter_Dev/pbdesign.py:113
+msgid "Powerboard Estuary Config"
+msgstr "Powerboard Estuary Config"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbdesign.py:106
+msgid "Change/modify Estuary elements)"
+msgstr "Ändere / Modifiziere Estuary Elemente"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:298
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:332
+msgid "Insert mount point:"
+msgstr "Mount Punkt einfügen:"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:321
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:425
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:470
+msgid ""
+"Cannot umount current drive. A record in progress, timeshit or some external "
+"tools (like samba and nfsd) may cause this problem. Please stop this actions/"
+"applications and try again"
+msgstr ""
+"Laufwerk kann nicht unmountet werden. Das Problem könnte durch eine laufende "
+"Aufnahme, Swap oder ein externes Programm (wie samba oder nfsd) ausgelöst "
+"werden. Bitte stoppen und erneut versuchen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:328
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:361
+msgid ""
+"Cannot mount new drive. Please check filesystem or format it and try again"
+msgstr ""
+"Das neue Laufwerk kann nicht gemountet werden. Bitte Dateisystem überprüfen "
+"oder formatieren und dann noch einmal probieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:383
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:405
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:429
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:450
+msgid "Check"
+msgstr "Überprüfung"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:384
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:406
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:430
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:451
+msgid "Format"
+msgstr "Formatieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:392
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:414
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:437
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:459
+msgid "Unmount"
+msgstr "Aushängen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:395
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:417
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:440
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:462
+msgid "Mount"
+msgstr "Einhängen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:423
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:468
+msgid "Check disk terminated with success!"
+msgstr "Dateisystemüberprüfung mit Erfolg durchgeführt!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:427
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:472
+msgid "Error checking disk. The disk may be damaged"
+msgstr ""
+"Fehler bei der Dateisystemüberprüfung. Das Laufwerk könnte beschädigt sein."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:433
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:444
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:455
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:478
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:489
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:500
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:511
+msgid "Format terminated with success!"
+msgstr "Formatierung mit Erfolg durchgeführt!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:435
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:446
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:457
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:480
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:491
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:502
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:513
+msgid ""
+"Cannot format current drive. A record in progress, timeshit or some external "
+"tools (like samba and nfsd) may cause this problem. Please stop this actions/"
+"applications and try again"
+msgstr ""
+"Laufwerk kann nicht unmountet werden. Das Problem könnte durch eine laufende "
+"Aufnahme, Swap oder ein externes Programm (wie samba oder nfsd) ausgelöst "
+"werden. Bitte stoppen und erneut versuchen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:437
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:448
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:459
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:482
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:493
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:504
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:515
+msgid "Error formatting disk. The disk may be damaged"
+msgstr "Fehler bei der Formatierung. Das Laufwerk könnte beschädigt sein."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:484
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:542
+msgid "Select filesystem for formatting"
+msgstr "Filesystem zum Formatieren auswählen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:549
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:623
+msgid "FAT16 on a partition detected, please format it or initialise device!"
+msgstr ""
+"FAT16 in einer Partition entdeckt, bitte formatiere es oder initialisiere "
+"das Gerät!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:559
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:797
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:633
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:893
+msgid ""
+"Cannot umount device. A record in progress, timeshit or some external tools "
+"(like samba and nfsd) may cause this problem. Please stop this actions/"
+"applications and try again"
+msgstr ""
+"Laufwerk kann nicht unmountet werden. Das Problem könnte durch eine laufende "
+"Aufnahme, Swap oder ein externes Programm (wie samba oder nfsd) ausgelöst "
+"werden. Bitte stoppen und erneut versuchen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:589
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:663
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:63
+msgid "Expand to device"
+msgstr "Flash-Vergrößerung"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:590
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:664
+msgid "Get rid of expand"
+msgstr "Auslagern aufheben"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:602
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:676
+msgid "Expanding ready! Restarting box NOW"
+msgstr "Flash-Vergrößerung durchgeführt! Box wird neu gestartet!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:606
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:680
+msgid "Device not mountet - please mount as something"
+msgstr "Gerät is nicht eingehangen - bitte als etwas einhängen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:608
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:682
+msgid "No EXT2- or EXT3-filesystem! Please format the device."
+msgstr ""
+"Kein EXT2- oder EXT3-Dateisystem gefunden - bitte formatiere das Gerät."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:610
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:620
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:684
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:694
+msgid "Error"
+msgstr "Fehler"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:616
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:690
+msgid "Back in flash again! Restarting box NOW"
+msgstr "Flash-Vergrößerung ist aufgehoben! Box wird neu gestartet!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:706
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:798
+msgid "Partitions"
+msgstr "Partitionen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:708
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:800
+msgid "Initialize"
+msgstr "Initialisieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:709
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:801
+msgid "Swapfile"
+msgstr "Swapfile"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:735
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:827
+msgid "parted is missing - installing it now"
+msgstr "Parted ist nicht installiert - das wird nun nachgeholt"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:762
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:854
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:115
+msgid "rsync is missing - installing it now"
+msgstr "rsync ist nicht installiert - das wird nun nachgeholt"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:774
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:868
+msgid "No Swapmanager installed!"
+msgstr "Kein Swapmanager installiert!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:795
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:891
+msgid ""
+"Partitioning done - please format the partitions in the format you want!"
+msgstr ""
+"Partitionierung erledigt - bitte im Bereich Paritionen diese Formatieren!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:799
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:898
+msgid "Partitioning failed!"
+msgstr "Partitionierung fehlgeschlagen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:1632
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:1675
+msgid "Format ext2"
+msgstr "Als ext2 formatieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:1632
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:1675
+msgid "Format ext3"
+msgstr "Als ext3 formatieren (empfohlen)"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManagerFIX.py:1632
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:1675
+msgid "Format fat32"
+msgstr "Als fat32 formatieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:354
+msgid ""
+"Cannot umount current drive. Timeshift, recording or some external tools "
+"(like samba and nfsd) may cause this problem. Please stop this actions/"
+"applications and try again"
+msgstr ""
+"Laufwerk kann nicht unmountet werden. Das Problem könnte durch eine laufende "
+"Aufnahme, Swap oder ein externes Programm (wie samba oder nfsd) ausgelöst "
+"werden. Bitte stoppen und erneut versuchen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:896
+msgid "Partitioning failed!  Serious disk I/O error."
+msgstr "Partitionierung fehlgeschlagen! Ernsthafter I/O Laufwerksfehler."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBDeviceManager.py:1677
+msgid "Format ext4"
+msgstr "Als ext4 formatieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:65
+msgid "End outsourcing"
+msgstr "Auslagern beenden"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:66
+msgid "Label Device"
+msgstr "Laufwerk benennen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:67
+msgid "Swap-Manager"
+msgstr "Swap-Manager"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:69
+msgid "Devices Info"
+msgstr "Laufwerksinfo"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:113
+msgid "Select device to expand to!"
+msgstr "Partition auswählen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:120
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:272
+msgid "No device selected"
+msgstr "Keine Partition ausgewählt"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:123
+#, python-format
+msgid "Expand to %s?"
+msgstr "Auslagern auf %s?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:179
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:219
+msgid "Expanding ready!"
+msgstr "Auslagern fertig - Box wird neu gestartet"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:222
+msgid "No ext-filesystem - please format (ext3 is recommended)"
+msgstr "Kein EXT-Dateisystem - bitte formatieren (ext3 wird empfohlen)"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:226
+#, python-format
+msgid "Expanding was canceled, because %s"
+msgstr "Auslagern wurde unterbrochen, weil: %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:244
+msgid "Get rid of Expand?"
+msgstr "Auslagern wirklich beenden?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:258
+#, python-format
+msgid "Unexpanding was canceled, because %s"
+msgstr "Aufheben der Auslagerung wurde abgebrochen, weil: %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:265
+msgid "Select device to label!"
+msgstr "Laufwerk bzw. Partition auswählen, die benannt werden soll"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:267
+msgid "e2label is missing - installing it now"
+msgstr "e2label ist nicht installiert, das wird gerade nachgeholt!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:275
+#, python-format
+msgid "Label %s?"
+msgstr "Laufwerksname %s?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:283
+msgid "Select a label(name)"
+msgstr "Label (Name) auswählen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:297
+msgid "Labeling succesfull - remounting partition"
+msgstr "Benennung erfolgreich - mounte Partition neu"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:302
+msgid "Something went wrong - please contact PB-Board"
+msgstr "Irgendetwas ist schief gelaufen - bitte PB-Powerboard kontaktieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBExpander.py:306
+#, python-format
+msgid "Labeling was canceled, because %s"
+msgstr "Benennung wurde abgebrochen, weil: %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:88
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:97
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:139
+msgid "TCP Connections"
+msgstr "TCP Verbindung"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:89
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:98
+msgid "General Info"
+msgstr "Grundsätzliche Informationen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:89
+msgid "General info about network. Please be patient!"
+msgstr "Grundsätzliche Informatione über das Netzwerk. Bitte etwas Geduld!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:90
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:99
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:143
+msgid "Speed Info"
+msgstr "Geschwindigkeitsinfo"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:90
+msgid "Test your internet speed. Please be patient!"
+msgstr "Teste deine Internetgeschwindigkeit. Bitte etwas Geduld!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBnetinfo.py:141
+msgid "General Network Info"
+msgstr "Grundsätzliche Netzwerk Infos"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbradio.py:115
+msgid ""
+" red\t = delete \n"
+" green\t = add \n"
+" bouquet +/-\t = change stream-/playlist \n"
+" TV\t = stop stream \n"
+" OK\t = start stream \n"
+msgstr ""
+" rot\t = löschen \n"
+" grün\t = hinzufügen \n"
+" Bouquet +/-\t = Ändere Stream-/Playlist \n"
+" TV\t = Stopt den Stream \n"
+" OK\t = Startet den Stream \n"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbradio.py:116
+msgid "Usage"
+msgstr "Verwendung"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:93
+msgid "Remove an extension plugin"
+msgstr "Löschen von Erweiterungs-Plugins"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:93
+msgid "Please choose plugin to uninstall"
+msgstr "Bitte wähle das Plugin aus zum deinstallieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:94
+msgid "Remove a system plugin"
+msgstr "Löschen von System-Plugins"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:94
+msgid "Please choose system plugin to uninstall"
+msgstr "Bitte wähle ein Systemplugin aus zum deinstallieren"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:95
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:106
+msgid "Remove a skin"
+msgstr "Skin entfernen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:95
+msgid "Please choose skin to uninstall"
+msgstr "Bitte wähle einen Skin aus der deinstalliert werden soll"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:96
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:155
+msgid " "
+msgstr " "
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:97
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:108
+msgid "Remove crashlogs"
+msgstr "Crashlogs löschen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:97
+msgid "Remove old crashlogs/debuglogs"
+msgstr "Entferne alte Crashlogs/Debuglogs"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:104
+msgid "Remove an extension-plugin"
+msgstr "Erweiterung löschen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:105
+msgid "Remove a system-plugin"
+msgstr "Systemplugin löschen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:167
+msgid "Select extension to remove!"
+msgstr "Erweiterung auswählen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:171
+msgid "No extension selected"
+msgstr "Keine Erweiterung ausgewählt"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:184
+msgid "Extension has been removed!"
+msgstr "Erweiterung wurde gelöscht!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:188
+#, python-format
+msgid "Remove of extension was canceled, because %s"
+msgstr "Das Löschen der Erweiterung wurde abgebrochen, weil: %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:201
+msgid "Select systemplugin to remove!"
+msgstr "Systemplugin auswählen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:205
+msgid "No systemplugin selected"
+msgstr "Kein Systemplugin ausgewählt"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:218
+msgid "Systemplugin has been removed!"
+msgstr "Systemplugin wurde gelöscht!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:222
+#, python-format
+msgid "Remove of systemplugin was canceled, because %s"
+msgstr "Das Löschen des Systemplugins wurde abgebrochen, weil: %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:235
+msgid "Select skin to remove!"
+msgstr "Skin auswählen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:239
+msgid "No skin selected"
+msgstr "Kein Skin ausgewählt"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:252
+msgid "Skin has been removed!"
+msgstr "Skin wurde gelöscht!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:256
+#, python-format
+msgid "Remove of skin was canceled, because %s"
+msgstr "Das Löschen des Skins wurde abgebrochen, weil: %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:272
+msgid "Remove crashlogs?"
+msgstr "Crashlogs entfernen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:289
+msgid "Crashlogs have been removed!"
+msgstr "Crashlogs wurden entfernt!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbremover.py:293
+#, python-format
+msgid "Remove of crashlogs was canceled, because %s"
+msgstr "Das Löschen der Crashlogs wurde abgebrochen, weil: %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:85
+msgid "Start script"
+msgstr "Start Script"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:130
+msgid "There is no Script to execute"
+msgstr "Kein ausführbares Skript gefunden"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:134
+msgid "Select Script to execute!"
+msgstr "Skript auswählen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:139
+msgid "No Script selected"
+msgstr "Kein Skript ausgewählt"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:142
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:403
+#, python-format
+msgid "How to execute %s?"
+msgstr "Wie soll %s ausgeführt werden?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:146
+msgid "How to execute the script?"
+msgstr "Wie soll das Script ausgeführt werden?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:148
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:405
+#, python-format
+msgid "Remove %s from autostart?"
+msgstr "%s nicht mehr beim Systemstart ausführen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:150
+msgid "switch off starting of script?"
+msgstr "Starten des Skripts ausschalten?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:155
+msgid "Execute at Startup"
+msgstr "Beim Systemstart ausführen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:157
+msgid "Execute every day/week"
+msgstr "Ausführung jeden Tag/Woche"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:159
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:291
+#, python-format
+msgid "Execute %s ?"
+msgstr "%s ausführen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:178
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:207
+msgid "Please change starttime"
+msgstr "Start-Uhrzeit auswählen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:199
+#, python-format
+msgid "%s will start every day at %s"
+msgstr "%s wird gestartet jeden Tag um %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:228
+#, python-format
+msgid "%s will start every week on %s at %s"
+msgstr "%s wird gestartet jede Woche am %s um %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:248
+#, python-format
+msgid "Starting of %s is switched to off!"
+msgstr "Starten von %s ist ausgeschaltet!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:316
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:326
+#, python-format
+msgid "executing %s"
+msgstr "Führe %s aus"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:331
+#, python-format
+msgid "executing was canceled, because %s"
+msgstr "Starten wurde abgebrochen, weil: %s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:408
+#, python-format
+msgid "switch off starting of %s?"
+msgstr "Starten von %s ausschalten?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:663
+msgid "Execute permanently"
+msgstr "Dauerhaft ausführen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:663
+msgid "run periodically"
+msgstr "Täglich/Wöchentlich ausführen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:663
+msgid "only run once"
+msgstr "Einmalig ausführen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:749
+msgid "Execute every startup"
+msgstr "Bei jedem Systemstart ausführen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbscriptstarter.py:749
+msgid "only run this time permanently"
+msgstr "Bis zum nächsten Systemstart ausführen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:133
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:156
+msgid "Satfind"
+msgstr "Satfinder"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:133
+msgid "Check your signals"
+msgstr "Überprüfe das Signal"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:134
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:157
+msgid "Auto Systemupdate"
+msgstr "automatisches Systemupdate"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:134
+msgid "Configure how and when system can make update"
+msgstr "Konfiguriere wie und wann das Systen updates machen kann"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:136
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:159
+msgid "PB Device Manager"
+msgstr "PB Device Manager"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:136
+msgid "Mounts tools)"
+msgstr "Mount Werkzeuge"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:138
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:161
+msgid "PB Label Mounting"
+msgstr "PB Labelmounten"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:138
+msgid "Mounts tools"
+msgstr "Mounts Werkzeug"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:140
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:163
+msgid "PB Set Picon Path"
+msgstr "PB Set Picon Pfad"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:140
+msgid "Change picon path"
+msgstr "Ändere den Picon Pfad"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:141
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:164
+msgid "Delete plugins and/or crashlogs/debuglogs"
+msgstr "Plugins und/oder Crashlogs/Debuglogs löschen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:141
+msgid "Clear your box from old logs/debugs"
+msgstr "Reinige deine Box von alten Logs/Debugs"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:142
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:165
+msgid "Camd Installer-Uninstaller"
+msgstr "Camd De-/Installer"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:142
+msgid "Install/Uninstall Camd"
+msgstr "Installieren/Deinstallieren Cams"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:143
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:166
+msgid "PB Expert Installer"
+msgstr "PB Expert Installer"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:143
+msgid "Install additional plugins/extensions/drivers..."
+msgstr "Installiere zusätzliche Plugins/Erweiterungen/Treiber"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:144
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:167
+msgid "Script Starter"
+msgstr "Skript Starter"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:144
+msgid "Run your script when you want"
+msgstr "Führe dein Script aus wenn du möchtest"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:145
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:168
+msgid "Auto Cam Restarter"
+msgstr "Auto Cam Restarter"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:145
+msgid "Choose time/date to restart your cam"
+msgstr "Wähle Zeit / Datum zum restarten deiner Cam"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:148
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:170
+msgid "LCD Skin Selector"
+msgstr "Design Auswahl"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbsetup.py:148
+msgid "Choose LCD skin"
+msgstr "Auswahl des LCD Skins"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBTimeInput.py:49
+msgid "%d.%B %Y"
+msgstr "%d.%B %Y"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/PBTimeInput.py:55
+msgid "Time"
+msgstr "Zeit"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:91
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:100
+msgid "When to show if update is available"
+msgstr "Wann soll die Meldung angezeigt werden?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:91
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:92
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:93
+msgid "Please choose..."
+msgstr "Bitte wähle..."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:92
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:101
+msgid "When to do automatic update"
+msgstr "Wann soll das Update durchgeführt werden?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:93
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:102
+msgid "Update the box NOW"
+msgstr "Update JETZT durchführen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:146
+msgid "When would you like to search for updates?"
+msgstr "Wann soll auf Updates geprüft werden?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:148
+msgid "When would you update the box?"
+msgstr "Wann soll das Update durchgeführt werden?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:166
+msgid "Classic Systemupdate"
+msgstr "klassisches Systemupdate"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:185
+msgid "Autoupdate is switched to off!"
+msgstr "Autoupdate ist ausgeschaltet!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:205
+msgid "Updatemessage is switched to off!"
+msgstr "Updatemeldung ist ausgeschaltet!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:216
+msgid "switch off autoupdate?"
+msgstr "Autoupdate ausschalten?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:223
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:252
+msgid "Please choose updatetime"
+msgstr "Uhrzeit für Update"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:244
+#, python-format
+msgid "Box will be updated every day at %s"
+msgstr "Die Box wird jeden Tag um %s aktualisiert"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:273
+#, python-format
+msgid "Box will be updated every week on %s at %s"
+msgstr "Die Box wird jede Woche am %s um %s aktualisiert"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:316
+msgid "switch off show updatemessage?"
+msgstr "Updatemeldung ausschalten?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:323
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:352
+msgid "Choose time for updatemessage"
+msgstr "Uhrzeit für Updatemeldung"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:344
+#, python-format
+msgid "Updatemessage will be shown every day at %s"
+msgstr "Updatemeldung wird jeden Tag um %s eingeblendet"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/pbupdate.py:373
+#, python-format
+msgid "Updatemessage will be shown every week on %s at %s"
+msgstr "Die Updatemeldung wird jede Woche am %s um %s eingeblendet"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:73
+msgid "Powerboard-Panel"
+msgstr "Powerboard-Schaltzentrale"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:143
+msgid "Software Manager"
+msgstr "Software Manager"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:143
+msgid "Everything about software: Backup/Restore/Update..."
+msgstr "Alles über Software: Backup/Restore/Update..."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:145
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:167
+msgid "Cam Manager"
+msgstr "Cam Manager"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:145
+msgid "Camd/EMU Control"
+msgstr "Camd/EMU Kontrolle"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:147
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:169
+msgid "Wildcard"
+msgstr "Wildcard"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:147
+msgid "Wildcard Control"
+msgstr "Wildcard Kontrolle"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:148
+msgid "PB Newsreader"
+msgstr "PB Newsreader"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:148
+msgid "Read the fresh daily news from our board, always stay tune"
+msgstr ""
+"Lese die neuesten Nachrichten von deinem Board, immer am laufenden bleiben"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:149
+msgid "Powerboard System Setup"
+msgstr "Powerboard System Setup"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:149
+msgid "Make your image smartest with a lot of additional settings"
+msgstr "Pass dein Image nach deinem Gusto mit zusätzlichen Einstellungen an"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:150
+msgid "Powerboard System Settings"
+msgstr "Powerboard System Settings"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:150
+msgid "Some system settings"
+msgstr "Einige Systemeinstellungen"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:151
+msgid "Powerboard System Info"
+msgstr "Powerboard System Info"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:151
+msgid "Get info of everything you want to know about your box"
+msgstr "Bekomme Informationen über deine Box"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:152
+msgid "Powerboard Design"
+msgstr "Powerboard Design"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:152
+msgid "Change GUI elements at your will"
+msgstr "Ändere Einstellungen des Skins nach deinem Geschmack"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:153
+msgid "Team Info"
+msgstr "Team Info"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:153
+msgid "Our proudly team"
+msgstr "Euer Team"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:154
+msgid "Internet radio"
+msgstr "Internet Radio"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:154
+msgid "Listen the online radio"
+msgstr "Online Radio hören"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:156
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:178
+msgid "Restart GUI"
+msgstr "Restart Userinterface"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:156
+msgid "Restart enigma2 from this point"
+msgstr "Restart Enigma2 von hier aus"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:165
+msgid "Softwaremanager"
+msgstr "Powerboard-System-Setup"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:170
+msgid "PB-Newsreader"
+msgstr "PB-Newsreader"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:171
+msgid "Powerboard-System-Setup"
+msgstr "Powerboard-System-Setup"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:172
+msgid "Powerboard-System-Settings"
+msgstr "Powerboard-System-Settings"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:173
+msgid "Powerboard-System-Info"
+msgstr "Powerboard-System-Info"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:174
+msgid "Powerboard-Design"
+msgstr "Powerboard-Design"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:175
+msgid "Team-Info"
+msgstr "Team-Info"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:176
+msgid "Internetradio"
+msgstr "Internetradio"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:206
+msgid "Check for update"
+msgstr "Überprüfe nach Updates"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/plugin.py:208
+msgid "About"
+msgstr "Über"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/spaceview.py:55
+msgid "flash"
+msgstr "Flash"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/spaceview.py:62
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:101
+msgid "Manage Swap File"
+msgstr "Swapmanager"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:118
+msgid "Activate Swap File?"
+msgstr "Swapfile aktivieren?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:123
+msgid "Swap file size"
+msgstr "Swapfilegroesse"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:125
+msgid "Swap file location"
+msgstr "Swapfilespeicherort"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:131
+msgid "Saving swap config. Please wait..."
+msgstr "Speichere Swapfileconfig. Ein Moment bitte..."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:154
+msgid "Creating Swap file..."
+msgstr "Erstelle Swapfile..."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:164
+msgid "Deleting Swap file..."
+msgstr "Loesche Swapfile..."
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:166
+msgid "Nothing to do!"
+msgstr "Warum soll ich 2x das gleiche machen?"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:170
+msgid "Swap process completed successfully!"
+msgstr "Erstellung war erfolgreich!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:172
+msgid "Swap process killed by user!"
+msgstr "Prozess wurde abgebrochen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:241
+msgid "Done"
+msgstr "Fertig"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:242
+msgid "Please Press OK Button to close windows!"
+msgstr "Drücke den OK-Button um das Fenster zu schließen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:254
+msgid "Action killed by user"
+msgstr "Prozess wurde durch den Anwender abgebrochen!"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:284
+msgid "No Delay"
+msgstr "keine Verzögerung"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:284
+msgid "second"
+msgstr "Sekunde"
+
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:284
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:285
+#: /home/image/po/neu/PowerboardCenter_Dev/swap.py:286
+msgid "seconds"
+msgstr "Sekunden"
+
+#~ msgid ""
+#~ "\n"
+#~ "Flash on the fly your %s %s."
+#~ msgstr ""
+#~ "\n"
+#~ "Flashen   Online / Lokal Ihrer %s %s."
+
+#~ msgid "Cannot format partition %d"
+#~ msgstr "Kann die Partition %d nicht formatieren"
+
+#~ msgid "Do you really want to download the ipk %s?"
+#~ msgstr "Wie soll %s installiert werden? Abbruch mit Exit"
+
+#~ msgid "Flash Online"
+#~ msgstr "Flashen Online/Lokal"
+
+#~ msgid "Flash Online a new image"
+#~ msgstr "Online/Offline flashen"
+
+#~ msgid "Flash assistant"
+#~ msgstr "Flashassistent"
+
+#~ msgid "Flash on the fly your your Receiver software."
+#~ msgstr ""
+#~ "Flashen Sie online oder von einer lokalen Quelle ihre Receiver Software."
+
+#~ msgid "Image Level"
+#~ msgstr "Imagefüllstand"
+
+#~ msgid "Local"
+#~ msgstr "Lokal"
+
+#~ msgid "No AddonManager installed!"
+#~ msgstr "Kein AddonManager installiert!"
+
+#~ msgid "No Backup-Manager installed!"
+#~ msgstr "Kein Backup-Manager installiert"
+
+#~ msgid "No CamManager installed!"
+#~ msgstr "Kein CamManager installiert!"
+
+#~ msgid ""
+#~ "No Dream Multimedia Hardware detected. You can install the image as "
+#~ "written in manual or use onlineflashing"
+#~ msgstr ""
+#~ "Keine Dream Multimedia Hardware gefunden. Du kannst das Image wie in der "
+#~ "Anleitung beschrieben installieren oder per Onlineflashtool"
+
+#~ msgid "No IPK-File selected"
+#~ msgstr "Kein IPK-File ausgewählt!"
+
+#~ msgid "No Satfind installed!"
+#~ msgstr "kein Satfinder installiert!"
+
+#~ msgid "No Systeminfoplugin installed!"
+#~ msgstr "Kein Systeminfoplugin installiert!"
+
+#~ msgid "No Systemsetupmanager installed!"
+#~ msgstr "Kein Systemsetupmanager installiert!"
+
+#~ msgid ""
+#~ "No online flashing available for Dream Multimedia Hardware. You have to "
+#~ "install new image via browser"
+#~ msgstr ""
+#~ "Online flashen ist nicht moeglich für Dream Multimedia Hardware. Bitte "
+#~ "ein neues Image per Webbrowser installieren"
+
+#~ msgid "Please select medium"
+#~ msgstr "Bitte wählen Sie das Image"
+
+#~ msgid "Really update now?"
+#~ msgstr "Wirklich JETZT durchführen?"
+
+#~ msgid "Select IPK-File please!"
+#~ msgstr "Bitte das IPK-File auswählen!"
+
+#~ msgid "Select hour!"
+#~ msgstr "Uhrzeit auswählen!"
+
+#~ msgid "View Space of /hdd"
+#~ msgstr "Speicherplatzbelegung von /hdd"
+
+#~ msgid "View Space of /media/cf"
+#~ msgstr "Speicherplatzbelegung von /media/cf"
+
+#~ msgid "View Space of /media/usb"
+#~ msgstr "Speicherplatzbelegung von /media/usb"
+
+#~ msgid "View Space of cf"
+#~ msgstr "Speicherplatzbelegung CF"
+
+#~ msgid "View Space of usb"
+#~ msgstr "Speicherplatzbelegung USB"
+
+#~ msgid "View Space of userdefined"
+#~ msgstr "Benutzerdefiniert"
+
+#~ msgid "adding was canceled"
+#~ msgstr "Hinzufügen eines Feeds abgebrochen"
+
+#~ msgid "do nothing."
+#~ msgstr "nichts"
+
+#~ msgid "ipkg install was canceled, because %s"
+#~ msgstr "IPKG-Installation wurde abgebrochen, da: %s"
+
+#~ msgid "onlineflashing"
+#~ msgstr "Onlineflashing"
+
+#~ msgid "shutdown box"
+#~ msgstr "Reciever herunterfahren"
+
+#~ msgid "What the hell you would start?"
+#~ msgstr "Was zur Hölle möchtest du starten?"
+
+#~ msgid ""
+#~ "Your Cam is active \n"
+#~ " To stop active Cam please press Red button. To restart active Cam press "
+#~ "OK button \n"
+#~ " To configure auto-restart press Yellow button"
+#~ msgstr ""
+#~ "Deine Cam ist aktiv. \n"
+#~ " Um sie zu stoppen, drücke bitte die rote Taste. Um die Cam zu restarten, "
+#~ "drücke bitte die OK Taste. \n"
+#~ " Um den Auto-Start zu aktivieren, drücke bitte die gelbe Taste."
+
+#~ msgid "What the hell you would stop?"
+#~ msgstr "Was zur Hölle möchtest du stoppen?"
+
+#~ msgid ""
+#~ "Your Cam is stopped \n"
+#~ " To start one please choose one from the list and press Green button"
+#~ msgstr ""
+#~ "Deine Cam ist gestoppt \n"
+#~ " Um zu starten, wähle bitte eine Cam in der Liste und drücke die grünen "
+#~ "Taste."
+
+#~ msgid "running"
+#~ msgstr "läuft"
+
+#~ msgid "stopped"
+#~ msgstr "gestoppt"

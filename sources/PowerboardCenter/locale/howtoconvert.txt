@@ -1,0 +1,6 @@
+mo to po:
+msgunfmt xxx.mo -o xxx.po
+
+po to mo:
+msgfmt xxx.po -o xxx.mo
+
